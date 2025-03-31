@@ -23,5 +23,5 @@
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyoSangByun&theme=vue-dark&show_icons=true)
 <br>
-<a href="https://github.com/HyoSangByun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoSangByun&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/HyoSangByun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoSangByun&layout=compact&theme=vue-dark&hide_border=true" /></a> 
 <br>
