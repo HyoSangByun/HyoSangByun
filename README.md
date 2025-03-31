@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=HyoSang's%20Github&animation=&fontColor=021a22&fontSize=60" />
 </div>
 
----
-
 <div align="center">
 
 ## 🛠️ Tech Stacks  
@@ -21,9 +19,6 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
 </div>
-
----
-
 <div align="center">
 
 ## 🏅 Stats  
@@ -33,8 +28,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyoSangByun&layout=compact&theme=vue-dark&hide_border=true)
 
 </div>
-
----
 
 <div align="center">
 
